@@ -40,3 +40,4 @@ Give a ⭐️ if this project helped you!
 - [ ] Create installer
 
 ***
+It's just for me because I'm too lazy to download it on my others computers..
