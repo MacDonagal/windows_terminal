@@ -17,7 +17,7 @@ Notepad++ or Visual Studio Code
 
 **Method 1:** 
 ```
-git clone https://gitub.com/theispacex/windows_terminal
+git clone https://github.com/theispacex/windows_terminal
 ```
 **Method 2:**
 ```
